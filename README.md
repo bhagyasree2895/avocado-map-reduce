@@ -19,6 +19,11 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
 #### This data-set of Avocado Prices has 14 columns and nearly 20,000 rows. The data is scraped in the csv file. The data-set which I took is structured data which is in the Excel format. The volume of the data is around 2 MB. The velocity of this data-set is pretty slow, since it's just the information recorded once for the year for each country. The data is not messy and  clean.
 
 ## Big Data problems:
+### Bhagya Sree Chanda:
+##### Mapper input: 0	12/27/2015	1.33	64236.62	1036.74	54454.85	48.16	8696.87	8603.62	93.25	0	conventional	2015	Albany
+##### Mapper output: Key is Country (Albany): Value is total volume(64236.62)
+##### Reducer output: Key is Country (Albany): Value is total volume(64236.62) {here the value as volume would be maximum of all volumes for a particular country.
+##### Chart: Bar chart
 1. For each country, find the maximum voume of consumed volume of avocado .
 2. For each country, find the sum of consumed volume of avocado .
 
