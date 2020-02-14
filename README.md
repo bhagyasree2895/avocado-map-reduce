@@ -8,5 +8,5 @@
 
 ## Links:
 ### 1. Shared public repo- https://github.com/bhagyasree2895/avocado-map-reduce
-### 2. Open issue for updating Readme.md file
+### 2. IssueTracker link- https://github.com/bhagyasree2895/avocado-map-reduce/issues
 The dataset we choose is Avocado prices and want to see prices of avocado in each region of united states.
