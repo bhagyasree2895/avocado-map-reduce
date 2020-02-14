@@ -4,7 +4,7 @@
 ## Developers: 
 ### 1. Bhagya Sree Chanda
 ### 2. Nikitha Lakmarapu
-#### Course Description: Design and implementation of data intensive systems covering common approaches to processing big data at rest and data in motion
+#### Course Description: Design and implementation of data intensive systems covering common approaches to processing big data at rest and data in motion. Using MapReduce: Simplified Data Processing on Large Clusters. An introduction to the design of data-intensive, reliable, scalable, and maintainable systems. This may include concepts such as parallel programming, distributed computing, distributed file systems, MapReduce, regular expressions, and the ingesting and processing of data at-rest and data in motion. Tools used may include Hadoop, HDFS, Pig, Hive, Spark, Storm, Kafka, Mahout, MLlib, etc
 
 ## Links:
 ### 1. Shared public repo- https://github.com/bhagyasree2895/avocado-map-reduce
