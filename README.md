@@ -21,9 +21,9 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
 ## Big Data problems:
 ### Bhagya Sree Chanda:
 ##### 1. Mapper input: 0	12/27/2015	1.33	64236.62	1036.74	54454.85	48.16	8696.87	8603.62	93.25	0	conventional	2015	Albany
-##### 1. Mapper output: Key is Country (Albany): Value is total volume(64236.62)
-##### 1. Reducer output: Key is Country (Albany): Value is total volume(64236.62) {here the value as volume would be maximum of all volumes for a particular country.
-##### 1. Chart: Bar chart
+##### 2. Mapper output: Key is Country (Albany): Value is total volume(64236.62)
+##### 3. Reducer output: Key is Country (Albany): Value is total volume(64236.62) {here the value as volume would be maximum of all volumes for a particular country.
+##### 4. Chart: Bar chart
 1. For each country, find the maximum voume of consumed volume of avocado .
 2. For each country, find the sum of consumed volume of avocado .
 
