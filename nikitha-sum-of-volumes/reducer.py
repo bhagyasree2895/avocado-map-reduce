@@ -1,3 +1,4 @@
+#In reducer file Sum function is applied for the key value pairs
 # read input from the file which has few records from actual data pasted into  fewRecords.txt
 s = open("02.txt","r")
 # write output into the file 01.txt

@@ -1,3 +1,5 @@
+#mapper file is used extract to the required key value pairs and sorting them
+
 # read input from the file which has few records from actual data pasted into  fewRecords.txt
 input = open("fewRecords.txt", "r")
 # write output into the file 01.txt
