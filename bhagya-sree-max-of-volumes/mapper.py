@@ -40,7 +40,7 @@ for line in dataList:
     # print (line)
     # write each line into the sorted file
     sorted.write(line)
-
+   
 # closing the opened input unsorted file and output sorted files
 unsorted.close()
 sorted.close()
