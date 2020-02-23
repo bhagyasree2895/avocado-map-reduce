@@ -1,8 +1,8 @@
 #In reducer file Sum function is applied for the key value pairs
 # read input from the file which has few records from actual data pasted into  fewRecords.txt
-s = open("02.txt","r")
+s = open("sortshuffleout.txt","r")
 # write output into the file 01.txt
-r = open("03.txt", "w")
+r = open("reducerout.txt", "w")
 
 # initializing the initial key, values with default values
 thisKey = ""
