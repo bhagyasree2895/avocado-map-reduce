@@ -1,8 +1,8 @@
 #mapper file is used extract to the required key value pairs and sorting them
-# read input from the file which has few records from actual data pasted into  fewRecords.txt
-input = open("fewRecords.txt", "r")
+# read input from the file avocado.txt
+input = open("C:\\44517\\avocado-map-reduce\\data\\avocado.txt", "r")
 # write output into the file 01.txt
-output = open("01.txt", "w")
+output = open("mapperout.txt", "w")
 
 # read lines from input one by one 
 # read each line using for loop
@@ -26,9 +26,9 @@ output.close()
 
 # sortshuffle.py
 # opening file 01.txt for reading
-unsorted = open("01.txt", "r")
+unsorted = open("mapperout.txt", "r")
 # opening file 02.txt for writing
-sorted = open("02.txt", "w")
+sorted = open("sortshuffleout.txt", "w")
 
 # readlines from the input file which is unsorted data
 dataList = unsorted.readlines()

@@ -1,4 +1,0 @@
-Albany	124055.31
-Atlanta	636771.37
-BaltimoreWashington	1007418.76
-Boise	95295.34
