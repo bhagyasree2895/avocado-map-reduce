@@ -22,6 +22,11 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
      - The volume of the data is around 2 MB. 
      - The velocity of this data-set is pretty slow, since it's just the information recorded once for the year for each country. 
      - The data is not messy and  clean.
+## Requirements:
+     - Install python3 version
+     - Install visual studio code
+     - Install power shell
+     - Install MS Excel
 
 ## Big Data problems:
 
