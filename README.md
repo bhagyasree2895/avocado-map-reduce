@@ -29,6 +29,7 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
      - Install MS Excel
 ## Sequence of steps for execution:
      - Select a structured data set from https://www.kaggle.com which is in csv format.
+     - Make sure python is installed using command prompt using command: python
      - Create mapper and reducer python files for each problem and write relevant code into them.
      - In a developer folder open powershell here as administrator.
      - In powershell write command : python mapper.py
