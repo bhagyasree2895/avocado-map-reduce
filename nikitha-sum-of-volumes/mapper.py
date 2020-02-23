@@ -1,7 +1,7 @@
 #mapper file is used extract to the required key value pairs and sorting them
 
 # read input from the file which has few records from actual data pasted into  fewRecords.txt
-input = open("fewRecords.txt", "r")
+input = open("C:\\44517\\avocado-map-reduce\\data\\avocado.txt", "r")
 # write output into the file 01.txt
 output = open("01.txt", "w")
 
