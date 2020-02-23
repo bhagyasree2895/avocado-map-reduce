@@ -51,7 +51,8 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
               - Albany 51039.6
 ##### - Reducer output: Key is Country (Albany): Value is total volume(118220.22) {here the value as volume would be maximum of all volumes for a particular country(Albany)
               - Albany 118220.2
-##### - Chart: Bar chart
+##### - Chart: Box and whisker graph
+![Box and whisker graph](./images/max_value_of_avocados.png)
 
 ### Nikitha Lakmarapu: 
 #### Problem: For each country, find the sum of consumed volume of avocado.
