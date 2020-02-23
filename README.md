@@ -49,5 +49,6 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
               - Albany 51039.6
 ##### - Reducer output: Key is Country (Albany): Value is total volume(367365.57) {here the value as volume would be sum of all volumes for a particular country(Albany)
               - Albany 367365.57
-##### - Chart: Bar chart
+##### - Chart: Line Graph
+![Line Graph](./images/sum_of_avocados.png)
 
