@@ -27,6 +27,16 @@ The dataset we choose is Avocado prices and want to see prices of avocado in eac
      - Install visual studio code
      - Install power shell
      - Install MS Excel
+## Sequence of steps for execution:
+     - Select a structured data set from https://www.kaggle.com which is in csv format.
+     - Create mapper and reducer python files for each problem and write relevant code into them.
+     - In a developer folder open powershell here as administrator.
+     - In powershell write command : python mapper.py
+     - After running mapper.py, run reducer.py file using command: python reducer.py
+     - Solution for the problem will be saved in reducerout.txt file.
+     - Copy the text from the reducerout.txt file and paste it in excel sheet.
+     - Select the data in excel sheet and go to insert to generate graph or chart.
+     - Select a best suitable graph type and generate the graph for the corresponding data.
 
 ## Big Data problems:
 
