@@ -12,7 +12,7 @@
 The dataset we choose is Avocado prices and want to see prices of avocado in each region of united states.
 
 ## Introduction: 
-##### It's also a well known fact that all Millenials live in their parents basements. Clearly, they aren't buying home because they are buying too much Avocado Toast!
+##### It's also a well known fact that all Millenials live in their parents basements. Clearly, they aren't buying home because they are buying too much Avocado Toast! The main reason we took this dataset is for knowing how much volume of avocados are consumed.
 
 ## Data Source:
 #### link to Actual data source: https://www.kaggle.com/neuromusic/avocado-prices
